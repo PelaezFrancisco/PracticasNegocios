@@ -1,0 +1,30 @@
+Datos -> Informacion -> Conocimiento -> Sabiduria
+
+Datos
+* Abudancia
+* Materia Prima
+* Utilizado a Nivel Tecnico
+
+Sabiduria
+* Escazes
+* Alto Valor anadido
+* Necesaria para la toma de desiciones
+
+Sobrecarga de informacion
+Es donde tenemos demasiada informacion para poder utilizarla.
+
+Entropia de Shanon: 
+Por tener mas informacion no estoy ayudando estoy confundiedo.
+Es mejor tener menos informacion pero mas conciza.
+
+Modelo DIKW
+	Data
+	Information
+	Knowledge
+	Wisdom
+
+Necesitamos apegarnos a una narrativa
+Oxitocina: Cuando nosotros consumimos una historia, esta hormona se libera en nuestro cerebro
+
+A los ninos se les enseñan a travez de los cuentos.
+
