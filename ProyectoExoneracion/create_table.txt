@@ -1,0 +1,14 @@
+create table if not exists datos(
+    Titulo string,
+    Institucion string,
+    Tipo string,
+    Reconocido string,
+    Numero_Registro string,
+    Fecha_Registro string,
+    Observacion string,
+    Identificacion string,
+    Nivel string,
+    Nombres string
+)
+ROW FORMAT DELIMITED
+ FIELDS TERMINATED BY ',';
